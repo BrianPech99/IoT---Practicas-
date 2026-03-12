@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335737889047",
+    "project_id": "iot-alert-lab",
+    "storage_bucket": "iot-alert-lab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335737889047:android:0ef6e5930c072046015752",
+        "android_client_info": {
+          "package_name": "com.pech.iotlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKX97fwJT8XKI6OkBr1J5I6_9LvxOYrkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
